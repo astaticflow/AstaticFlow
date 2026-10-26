@@ -24,7 +24,7 @@ Build notes and write-ups will land in the repos below as I go.
 ## Repos
 | Repo | What it is |
 |------|-----------|
-| _home-lab_ | Lab architecture, network diagram, build log |
+| _[home-lab](https://github.com/astaticflow/home-lab)_ | Lab architecture, network diagram, build log |
 
 _(Repos are added here as they go public.)_
 
