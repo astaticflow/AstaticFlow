@@ -1,4 +1,4 @@
-# Hi, I'm Scott 👋
+# Hi, I'm AstaticFlow 👋
 
 Biology grad turned hands-on tech person, building toward a career in security operations.
 
@@ -26,9 +26,5 @@ Build notes and write-ups will land in the repos below as I go.
 |------|-----------|
 | _[home-lab](https://github.com/astaticflow/home-lab)_ | Lab architecture, network diagram, build log |
 
-_(Repos are added here as they go public.)_
 
-## Elsewhere
-- LinkedIn: [www.linkedin.com/in/scott-mcdonald-032b3aab]
 
-Based in Michigan.
